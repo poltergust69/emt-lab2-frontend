@@ -28,7 +28,7 @@ const BookEdit = (props) => {
     }
 
     const redirect = () => {
-        window.location.href="http://localhost:3000/books"
+        window.location.href="https://frontend-lab2.herokuapp.com/books"
     }
 
 
